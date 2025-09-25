@@ -1,0 +1,13 @@
+{
+  "name": "transportation-problem-solver",
+  "version": "1.0.0",
+  "description": "Transportation and Assignment Problem Solver with React frontend and FastAPI backend",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "cd frontend && npm start",
+    "api-dev": "cd api && python main.py"
+  },
+  "keywords": ["transportation", "assignment", "operations-research", "react", "fastapi"],
+  "author": "Your Name",
+  "license": "MIT"
+}
